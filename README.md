@@ -9,7 +9,7 @@
 - Astro
 - React
 
-## Front-end stacks:
+## Back-end stacks:
 
 - PHP
 - Node JS
